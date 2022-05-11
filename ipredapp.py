@@ -1,1 +1,1 @@
-print("blank")
+import tkinter as tk
